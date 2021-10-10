@@ -1,0 +1,34 @@
+body{
+    margin:0;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSexDk9DORhUjQIo2ciwCIdnbf9_Zo_jkzvzQ&usqp=CAU);
+    background-size: cover;
+    background-repeat: no-repeat;
+
+    text-align: center;
+    position: relative;
+    top:100px;
+}
+
+h1{
+    color:goldenrod;
+    font-size:48px;
+    font-weight: bold;
+}
+
+h2{
+    color: white;
+}
+
+h3{
+    font-size:36px;
+    font-weight:bold;
+    color: white;
+}
+
+button{
+    color: coral;
+    padding: 15px;
+    margin-left:15px;
+    font-weight: bolder;
+}
